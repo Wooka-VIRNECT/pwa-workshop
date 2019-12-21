@@ -66,3 +66,29 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+wooka-pwa-principal
+{
+  "clientId": "afba6175-55ae-417a-aa4f-096251c24924",
+  "clientSecret": "e3e6584b-f4ab-4241-91d1-a4272c932216",
+  "subscriptionId": "8e9cc5bc-fd1b-4906-9fb7-0260dee88912",
+  "tenantId": "d70d3a32-a4b8-4ac8-93aa-8f353de411ef",
+  "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
+  "resourceManagerEndpointUrl": "https://management.azure.com/",
+  "activeDirectoryGraphResourceId": "https://graph.windows.net/",
+  "sqlManagementEndpointUrl": "https://management.core.windows.net:8443/",
+  "galleryEndpointUrl": "https://gallery.azure.com/",
+  "managementEndpointUrl": "https://management.core.windows.net/"
+}
+wooka-pwa-storage
+{
+  "clientId": "2b3f603e-5d58-446b-ac10-bbce7b5d3b27",
+  "clientSecret": "3dcb6c08-36ef-42b8-a419-b1892971792d",
+  "subscriptionId": "8e9cc5bc-fd1b-4906-9fb7-0260dee88912",
+  "tenantId": "d70d3a32-a4b8-4ac8-93aa-8f353de411ef",
+  "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
+  "resourceManagerEndpointUrl": "https://management.azure.com/",
+  "activeDirectoryGraphResourceId": "https://graph.windows.net/",
+  "sqlManagementEndpointUrl": "https://management.core.windows.net:8443/",
+  "galleryEndpointUrl": "https://gallery.azure.com/",
+  "managementEndpointUrl": "https://management.core.windows.net/"
+}
