@@ -24,12 +24,7 @@ jobs:
       shell: bash
       run: |
         npm run build
-
-    - name: Test app
-      shell: bash
-      run: |
-        npm run test
-
+        
     - name: Publish app
       uses: Azure/cli@v1.0.0
       with:
