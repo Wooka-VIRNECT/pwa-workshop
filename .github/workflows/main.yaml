@@ -1,0 +1,11 @@
+name: workshopflow
+
+on: push
+
+jobs:
+  build_and_publish:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: flow1
+      uses: actions/checkout@v1
